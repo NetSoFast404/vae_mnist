@@ -36,7 +36,7 @@ pip install torch torchvision tqdm numpy matplotlib
 python vae_mnist.py
 ```
 
-训练过程中将自动下载 MNIST 数据集，并输出训练结果。
+训练过程中将自动下载 MNIST 数据集，输出生成结果，保存最好的模型权重。
 
 
 ## 实验任务
